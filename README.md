@@ -1,5 +1,6 @@
 # ActiveSigns
-ActiveSigns is a Movecraft addon which allows redstone signals to interact with movecraft signs.
+ActiveSigns is a Movecraft addon which allows redstone signals to interact with movecraft signs.  
+Tested versions: Spigot 1.12.2
 # Signal
   A sign will be activated if either an adjacent redstone dust is powered, redstone repeater pointing into it is powered or an adjacent redstone torch is powered.
   Depending on the sign placement and input it will either simulate a left-click or right-click:
