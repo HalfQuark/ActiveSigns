@@ -1,8 +1,0 @@
-CooldownMilis: 49
-Blacklist:
-   - "Subcraft Rotate"
-Whitelist:
-   - "[Active]"
-StatusOutput: true
-SpeedOutput: true
-ContactOutput: true

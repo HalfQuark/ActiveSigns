@@ -1,0 +1,5 @@
+name: ActiveSigns
+version: 2.0.0
+main: me.halfquark.activesigns.ActiveSigns
+depend: [Movecraft]
+api-version: 1.14
